@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\LogActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1f7ea9c5fe0c305f83c49dcca106d40e0415610">
+        <dex dex="C:\Users\Administrator\Desktop\LogActivity\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5e00d07301c2b1fec81e1285a286522f8ec18f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\LogActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0468c1b938a58bc151ea578dd31d77718a92c5b7">
+        <dex dex="C:\Users\Administrator\Desktop\LogActivity\app\build\intermediates\pre-dexed\debug\instant-run_93c2a14fc6cc6be31399e8e082a7e0497c878ae2.jar" />
+    </item>
+
+</items>
