@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="action_setting">Setting</string>
+    <string name="hello">Hello world, SpinnerDemo1Activity! </string>
+    <string name="insert">增加</string>
+    <string name="delete">删除</string>
+</resources>
