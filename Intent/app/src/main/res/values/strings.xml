@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="iphone_call">拨号</string>
+    <string name="notify_incorent_phonenum">"您输入号码有误，请重新输入"</string>
+</resources>
