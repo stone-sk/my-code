@@ -1,4 +1,4 @@
-package com.ruibin.weather;
+package com.stone.weather;
 
 import android.content.DialogInterface;
 import android.graphics.Bitmap;
@@ -24,7 +24,6 @@ import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity {
     private static SparseArray<Bitmap> mWeatherIconCache = new SparseArray<Bitmap>();
-
     private RecyclerView mRecyclerView;
     private Weather mWeather;
     private String[] mCityList;

@@ -1,4 +1,4 @@
-package com.ruibin.weather;
+package com.stone.weather;
 
 import android.text.TextUtils;
 import android.util.Log;
@@ -13,7 +13,6 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
-import java.nio.charset.StandardCharsets;
 
 public class WeatherApi {
     private static final String WEATHER_API_ADDRESS = "http://www.ruibin.info/weather.php";

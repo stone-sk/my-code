@@ -1,4 +1,4 @@
-package com.ruibin.weather;
+package com.stone.weather;
 
 import java.util.HashMap;
 
@@ -100,7 +100,8 @@ public class Weather {
         WIND_SPEED_MAP.put("9", "11-12级(89~102千米每小时)");
     }
 
-    private String reason;
+
+   private String reason;
     private Result result;
     private String errorCode;
 

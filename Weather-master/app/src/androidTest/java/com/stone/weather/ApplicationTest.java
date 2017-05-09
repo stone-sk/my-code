@@ -1,4 +1,4 @@
-package com.ruibin.weather;
+package com.stone.weather;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

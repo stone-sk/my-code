@@ -1,4 +1,4 @@
-package com.ruibin.weather;
+package com.stone.weather;
 
 import org.junit.Test;
 
